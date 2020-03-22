@@ -1,6 +1,6 @@
-## Assigment 1 - Python Basics
+## Assignment 1 - Python Basics
 
-1. Write a Python script to accept a number from a user and print the multipication table (up to 10) for that number. The output should look exactly as given below:
+1. Write a Python script to accept a number from a user and print the multiplication table (up to 10) for that number. The output should look exactly as given below:
 
    ```
    Enter a number: 2
@@ -20,7 +20,7 @@
 
 ---
 
-2. Write a Python script to accept a number from a user and print out all it's factors. The output should look exactly as given below:
+2. Write a Python script to accept a number from a user and print out all its factors. The output should look exactly as given below:
 
    ```
    Enter a number: 12
@@ -46,7 +46,7 @@
 
 ---
 
-4. Write a Python script to accept a number from a user and determine if it's a prime number or not. The output should look exactly as given below:
+4. Write a Python script to accept a number from a user and determine if it is a prime number or not. The output should look exactly as given below:
 
    ```
    Enter a number: 17
