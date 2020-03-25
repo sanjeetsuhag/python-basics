@@ -19,4 +19,4 @@ for i in range(1, n):
             if is_prime == True:
                 prime_factor_count = prime_factor_count + 1
     if prime_factor_count > 3:
-        print(i)10
+        print(i)
